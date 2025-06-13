@@ -1,8 +1,8 @@
 <div align="center">
 
-  <h1>Gandi Plugins</h1>
+  <h1>Sun Plugins</h1>
 
-  Gandi Plugins is a component library containing a suite of feature-enhancing plugins for Gandi-IDE.
+  Sun Plugins is a component library containing a suite of feature-enhancing plugins for SunMod
 
   English · [中文](./README-zh_CN.md)
 </div>
